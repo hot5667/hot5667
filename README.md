@@ -1,4 +1,4 @@
-# KimWandeuk
+# Information
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20&section=header&descAlignY=43&descAlign=84&textBg=false&reversal=false&fontAlign=50&animation=blink&rotate=0"/>
 
