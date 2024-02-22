@@ -7,20 +7,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hot5667&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌊Introduction
----
 - 닉네임 : 김완득
 - 블로그 : https://blog.naver.com/normaldev
 - 이메일 : hot99009@gmail.com
 - 취    미 : 게임, 산책, 여행, 맛집탐방
 
 ## 💻_Skill_
----
 << Languge >>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=&logo=c&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=&logo=csharp&logoColor="/>
-<img src="https://img.shields.io/badge/C++-00599C?style=&logo=cplusplus&logoColor="/>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=&logo=csharp&logoColor="/> <img src="https://img.shields.io/badge/C++-00599C?style=&logo=cplusplus&logoColor="/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=&logo=javascript&logoColor=FFFFFF"/>
 
 << tool  >>
@@ -61,4 +56,3 @@
 
 - 청강문화산업대학교 게임콘텐츠 스쿨 2학년 재학중
 
----
