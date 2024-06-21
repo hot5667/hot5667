@@ -35,14 +35,6 @@
 
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=&logo=react&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Microsoft Word-2B579A?style=&logo=microsoftword&logoColor=FFFFFF"/>
 
-## 🎖️경력
-
-- 김부장 FrontEnd Vue 개발자 인턴 '20년 1월 ~ '20년 2월
-- NeoWiz FrontEnd 개발자 정직원 "20년 2월 ~ '21년 9월 
-- 스마일 게이트 FQA 계약직 '21년 10월 ~ '21년 10월 
-- 아트 엔 메타 Unity클라이언트 프로그래머 '23년 4월 ~ '23년 7월
-- Google REWS QA 부서 정직원 '23년 8월 ~ '24년 2월
-
 ## 🏫학력
 - SBS게임아카데미 Unity 입시/취업반 '19년 1월 ~ '19년 12월 수료
 - 청강문화산업대학교 게임콘텐츠 스쿨 2학년 중퇴
