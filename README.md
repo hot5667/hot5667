@@ -8,7 +8,7 @@
 
 ## 🌊Introduction
 - 닉네임 : 김완득
-- 블로그 : https://blog.naver.com/normaldev
+- 블로그 : [https://blog.naver.com/normaldev](https://velog.io/@hot5667/posts)
 - 이메일 : hot99009@gmail.com
 - 취    미 : 게임, 산책, 여행, 맛집탐방
 
